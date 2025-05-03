@@ -55,4 +55,5 @@
 
 ### 🐍 Snake Contribution Graph
 
-![Snake animation](https://github.com/OPAC-SEC/OPAC-SEC/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/OPAC-SEC/OPAC-SEC/output/github-contribution-grid-snake.svg)
+
