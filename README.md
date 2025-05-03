@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhay Patel</h1>
-<h3 align="center">Cybersecurity Enthusiast | VAPT & SOC Analyst | CTF Player | Ethical Hacker in Training</h3>
+<h3 align="center">Cybersecurity Enthusiast | SOC Analyst Intern @ ZeronSec</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
+
 
 
 ---
