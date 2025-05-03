@@ -2,11 +2,24 @@
 <h3 align="center">Cybersecurity Enthusiast | SOC Analyst Intern @ ZeronSec</h3>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SOC%20ANALYST%20@%20ZERONSEC-00ff00?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VAPT%20|%20CTF%20Player-Ethical%20Hacker-00ff00?style=for-the-badge&logo=kalilinux&logoColor=black" />
-  <img src="https://img.shields.io/badge/CERTIFICATIONS-EHE%20|%20CNSP%20|%20AZ900-00ff00?style=for-the-badge&logo=verizon&logoColor=black" />
-</p>
+<h1 align="center">💀 ACCESS GRANTED 💀</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=OPAC-SEC+Detected...;Initializing+Cyber+Firewall...;Welcome+Back%2C+Abhay+%7C+SOC+Analyst;Scanning+Vulnerabilities...;Deploying+Digital+Forensics+Suite..." alt="Typing Banner" />
+</h3>
+
+---
+
+```ansi
+[1;32m
+┌────────────────────────────────────────────┐
+│  NAME: Abhay Patel (OPAC-SEC)              │
+│  ROLE: SOC Analyst @ ZeronSec              │
+│  CERTS: EHE | CNSP | AZ-900                │
+│  TOOLS: Kali | Burp | Splunk | Wireshark   │
+│  MISSION: Hunt Threats. Analyze Logs.      │
+└────────────────────────────────────────────┘
+[0m
 
 
 
