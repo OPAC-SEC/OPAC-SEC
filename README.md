@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhay Patel</h1>
 <h3 align="center">Cybersecurity Enthusiast | VAPT & SOC Analyst | CTF Player | Ethical Hacker in Training</h3>
 
-<img align="right" alt="Cybersecurity" width="300" src="https://media.giphy.com/media/ZFt4vXBshYp3S/giphy.gif" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
 
 ---
 
