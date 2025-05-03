@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | SOC Analyst Intern @ ZeronSec</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="Hacker typing" width="100%" />
+  <img src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" alt="glitch hacker style" width="100%" />
 </p>
 
 
