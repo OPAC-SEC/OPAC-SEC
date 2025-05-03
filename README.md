@@ -2,9 +2,8 @@
 <h3 align="center">Cybersecurity Enthusiast | SOC Analyst Intern @ ZeronSec</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="terminal typing" width="700px" />
+  <img src="https://raw.githubusercontent.com/Platane/Platane/main/assets/github-user-contribution.svg" alt="matrix rain" />
 </p>
-
 
 
 
