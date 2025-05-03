@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | SOC Analyst Intern @ ZeronSec</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/vw8km1g/matrix-code-rain.gif" alt="matrix rain banner" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="matrix rain banner" width="100%" />
 </p>
 
 
