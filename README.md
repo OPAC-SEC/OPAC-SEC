@@ -2,15 +2,12 @@
 <h3 align="center">Cybersecurity Enthusiast | SOC Analyst Intern @ ZeronSec</h3>
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Abhay+(OPAC-SEC);Cyber+Security+Student;SOC+Analyst+@+ZeronSec;VAPT+%7C+Forensics+%7C+CTFs+Player" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/SOC%20Analyst-ZeronSec-green?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/CyberSecurity%20Student-EHE%20%7C%20CNSP%20%7C%20AZ900-green?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Kali%20Linux%20%7C%20Burp%20Suite%20%7C%20Wireshark-blue?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOC%20ANALYST%20@%20ZERONSEC-00ff00?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VAPT%20|%20CTF%20Player-Ethical%20Hacker-00ff00?style=for-the-badge&logo=kalilinux&logoColor=black" />
+  <img src="https://img.shields.io/badge/CERTIFICATIONS-EHE%20|%20CNSP%20|%20AZ900-00ff00?style=for-the-badge&logo=verizon&logoColor=black" />
 </p>
+
 
 
 ---
