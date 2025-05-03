@@ -2,12 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | SOC Analyst Intern @ ZeronSec</h3>
 
 
-<p align="center">
-  <a href="https://OPAC-SEC.github.io/YOUR-REPO/matrix.html">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&width=435&lines=Click+for+Matrix+Code+Rain+Effect" alt="Matrix Link Banner" />
-  </a>
-</p>
-
+<pre> ```ansi [1;32m ██████╗ ██████╗ █████╗ ██████╗ ███████╗███████╗ ██████╗ ██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗ ██╔════╝██╔════╝██╔═══██╗ ██████╔╝██║ ██║███████║██║ ██║ █████╗ █████╗ ██║ ██║ ██╔═══╝ ██║ ██║██╔══██║██║ ██║ ██╔══╝ ██╔══╝ ██║ ██║ ██║ ╚██████╔╝██║ ██║╚██████╔╝ ██║ ███████╗╚██████╔╝ ╚═╝ ╚═════╝ ╚═╝ ╚═╝ ╚═════╝ ╚═╝ ╚══════╝ ╚═════╝ [ OPAC-SEC | Cyber Security Student ] [0m ``` </pre>
 
 
 ---
